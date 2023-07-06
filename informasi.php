@@ -84,7 +84,6 @@
                 <label>No. HP : </label> <label><?php echo $row['nohp']; ?></label></br>
                 <p>
                     <a href="login.php">Logout</a>
-                    <a href="index.php"> Main Menu</a>
                 </p>
             </div>
         </div>
