@@ -6,7 +6,7 @@ Database name : db_mahasiswa
 
 Table Name : tbl_mahasiswa
 
-Column : nim (int) primary key
+Column : nim (int) primary key; 
          nama (varchar(100)); 
          alamat (varchar(100)); 
          nohp (varchar(50)); 
