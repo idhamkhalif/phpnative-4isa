@@ -7,8 +7,8 @@ Database name : db_mahasiswa
 Table Name : tbl_mahasiswa
 
 Column : nim (int) primary key
-         nama (varchar(100))
-         alamat (varchar(100))
-         nohp (varchar(50))
-         password(varchar(50))
-         image (longblob)
+         nama (varchar(100)); 
+         alamat (varchar(100)); 
+         nohp (varchar(50)); 
+         password(varchar(50)); 
+         image (longblob); 
