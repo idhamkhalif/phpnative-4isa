@@ -32,7 +32,7 @@ CREATE DATABASE db_mahasiswa;
 USE db_mahasiswa;
 
 CREATE TABLE `tbl_mahasiswa` (
-  `nim` int(11) NOT NULL,
+  `nim` int(11) NOT NULL PRIMARY KEY,
   `nama` varchar(50) NOT NULL,
   `alamat` varchar(500) NOT NULL,
   `nohp` varchar(50) NOT NULL,
